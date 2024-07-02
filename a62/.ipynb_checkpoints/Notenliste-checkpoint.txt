@@ -1,0 +1,4 @@
+Moser, Max, 123456, 2.3
+Lindau, Lisa, 234567, 1.7
+Einstein, Albert, 345678, 3.0
+Zweistein, Anna, 456789, 3.7
